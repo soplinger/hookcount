@@ -1,0 +1,8 @@
+# Same beanie with mistakes: a bad bracket, a bad repeat, a skipped round number
+R1: MR, sc6 [6]
+R2: inc6 [12]
+R3: (sc, inc) x6 [19]
+R4: (sc2, inc) x5 [24]
+R5: sc24 [24]
+R7: sc18 [18]
+R8: (sc1, dec) x6 [12]

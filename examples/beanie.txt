@@ -1,0 +1,10 @@
+# Adult beanie, worked in the round, 4.0 mm hook, worsted weight
+R1: MR, sc6 [6]
+R2: inc6 [12]
+R3: (sc, inc) x6 [18]
+R4: (sc2, inc) x6 [24]
+R5: sc24 [24]          # straight section
+R6: (sc2, dec) x6 [18]
+R7: sc18 [18]
+R8: (sc1, dec) x6 [12]
+R9: dec6 [6]
